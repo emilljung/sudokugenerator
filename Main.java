@@ -7,7 +7,7 @@ public class Main {
 				boxSize = Integer.parseInt(args[0]);
 			}
 			catch (Exception e) {
-				System.out.println("The 2 additional values must be numbers");
+				System.out.println("The additional value must be a number");
 				return;
 			}
 		}
