@@ -1,3 +1,5 @@
+De celler som har 0 som värde anses vara tomma
+
 Windows:
 	1. Öppna ett CMD-fönster
 	2. Kör 'set path=%path%;C:\Program Files\Java\jdk1.8.0_131\bin'. Vilken jdk som används kan variera.
