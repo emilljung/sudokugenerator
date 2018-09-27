@@ -19,7 +19,7 @@ public class Main {
 
 		Sudoku sudoku = new Sudoku(boxSize);
 		sudoku.generateSudokuField();
-		//sudoku.removeCellValuesRandomly();
+		sudoku.removeCellValuesRandomly();
 		sudoku.printSudoku();
 	}
 }
